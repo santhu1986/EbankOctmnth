@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Mindqbankteller###E
+MindqbankCashier###E
+MindqbankPo###E

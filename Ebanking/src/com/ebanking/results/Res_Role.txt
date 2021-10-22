@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Mindqbankteller###E%^%&%&%New Role with id 1853 Created Sucessfully
+MindqbankCashier###E%^%&%&%New Role with id 1854 Created Sucessfully
+MindqbankPo###E%^%&%&%New Role with id 1855 Created Sucessfully
